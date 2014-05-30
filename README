@@ -1,0 +1,43 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4950
+
+Speed-up the development of Lua scripts:
+- insert code snippets: comments, statements, functions, regular expressions, ...
+- ... which come in an extendible template library
+- quickly comment the code by automatically generating function descriptions
+- run or compile the code from within Vim
+- run the syntax checker
+- quick access to the online documentation
+
+Here are some screen shots : http://lug.fh-swf.de/vim/website_lua &nbsp; ** TO BE ADDED **
+
+The help file online : http://lug.fh-swf.de/vim/website_lua/luasupport.html &nbsp; ** TO BE ADDED **
+
+The screen shots of the original lua-support give an impression : http://lug.fh-swf.de/vim/vim-lua/ 
+
+While this plug-in is conceived as a successor of the original lua-support ( http://vim.sourceforge.net/scripts/script.php?script_id=1763 ), backwards compatibility is not guaranteed.
+However, we hope that the better configurability through the template library and other new features make for a product which is much better suited to deal with a language like Lua.
+
+
+DOCUMENTATION
+--------------------------------------------------------
+This plug-in comes with a help file (lua-support.txt). Read it with:
+
+      :help lua-support
+
+
+GET IN TOUCH
+--------------------------------------------------------
+Lua Support is on GitHub:
+
+      Stand-alone for plug-in managers: https://github.com/WolfgangMehner/lua-support
+
+      Main development repository: https://github.com/WolfgangMehner/vim-plugins
+
+(Please help us keep track of all the issues and name your report/request "Lua-Support: <title>")
+
+
+You can subscribe to the vim-plugins-list mailing list to post your questions or suggestions for improvement or to report bugs. The list will also be used to announce new releases ( c.vim / bash-support / perl-support / lua-support ).  Visit the following page for subscribing to the mailing list:
+    
+      http://lug.fh-swf.de/cgi-bin/mailman/listinfo/vim-plugins-list
+
+The vim-plugins-list list is very low on traffic.
