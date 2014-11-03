@@ -7,12 +7,11 @@ Speed-up the development of Lua scripts:
 - run or compile the code from within Vim
 - run the syntax checker
 - quick access to the online documentation
+- make integration
 
-Here are some screen shots : http://lug.fh-swf.de/vim/website_lua &nbsp; ** TO BE ADDED **
+Here are some screen shots : http://lug.fh-swf.de/vim/website_lua
 
-The help file online : http://lug.fh-swf.de/vim/website_lua/luasupport.html &nbsp; ** TO BE ADDED **
-
-The screen shots of the original lua-support give an impression : http://lug.fh-swf.de/vim/vim-lua/ 
+The help file online : http://lug.fh-swf.de/vim/website_lua/luasupport.html
 
 While this plug-in is conceived as a successor of the original lua-support ( http://vim.sourceforge.net/scripts/script.php?script_id=1763 ), backwards compatibility is not guaranteed.
 However, we hope that the better configurability through the template library and other new features make for a product which is much better suited to deal with a language like Lua.
